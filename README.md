@@ -1,2 +1,2 @@
 # MIPT_labs
-my physics labs in mipt
+my physics labs at mipt
